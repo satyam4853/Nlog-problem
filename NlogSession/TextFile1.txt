@@ -1,0 +1,2 @@
+﻿2021-08-11 12:54:23.6750|DEBUG|NlogSession.Nlog|Debug Successfull : Sum()
+2021-08-11 12:54:23.6750|INFO|NlogSession.Nlog|Sum Method passed, Result9
